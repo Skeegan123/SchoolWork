@@ -1,2 +1,0 @@
-This is a test for copying a file into your directory and then copying
-it to your laptop.

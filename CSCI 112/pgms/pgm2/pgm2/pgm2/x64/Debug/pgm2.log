@@ -1,0 +1,4 @@
+﻿  pgm2.cpp
+C:\Users\Keegans Laptop\source\repos\CSCI112 Classwork\pgm2\pgm2\pgm2\pgm2.cpp(85): warning C4715: 'findName': not all control paths return a value
+C:\Users\Keegans Laptop\source\repos\CSCI112 Classwork\pgm2\pgm2\pgm2\pgm2.cpp(94): warning C4715: 'personType': not all control paths return a value
+  pgm2.vcxproj -> C:\Users\Keegans Laptop\source\repos\CSCI112 Classwork\pgm2\pgm2\x64\Debug\pgm2.exe

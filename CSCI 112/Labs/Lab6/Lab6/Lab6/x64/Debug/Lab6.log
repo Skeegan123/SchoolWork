@@ -1,0 +1,3 @@
+﻿  Lab6.cpp
+C:\Users\Keegans Laptop\source\repos\CSCI112 Classwork\Lab6\Lab6\Lab6\Lab6.cpp(173,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab6.vcxproj -> C:\Users\Keegans Laptop\source\repos\CSCI112 Classwork\Lab6\Lab6\x64\Debug\Lab6.exe

@@ -1,0 +1,6 @@
+﻿  mon.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 100 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  mon.vcxproj -> C:\Users\Keegans Laptop\source\repos\CSCI112 Classwork\Week11\mon\mon\x64\Release\mon.exe
